@@ -1,5 +1,5 @@
 const map = (array, func) => {
-    // your code here
+    // your code hered
 }
 
 const greaterThan = N => {
